@@ -1,0 +1,71 @@
+files:
+  - time: 1757656111685.yml
+    name: iKuuu_V2.yaml
+    url: https://7ktpt.no-mad-world.club/link/gxK6duBEEzOOPBTu?clash=3&extend=1
+    selected:
+      - name: GLOBAL
+        now: 🇭🇰 香港S02 | IEPL
+      - name: 🔰 选择节点
+        now: 🇭🇰 香港S01
+      - name: 🌏 爱奇艺&哔哩哔哩
+        now: DIRECT
+      - name: 📺 动画疯
+        now: 🔰 选择节点
+      - name: 🎮 Steam 登录/下载
+        now: DIRECT
+      - name: 🎮 Steam 商店/社区
+        now: 🔰 选择节点
+      - name: 🌩️ Cloudflare
+        now: 🔰 选择节点
+      - name: ☁️ OneDrive
+        now: 🔰 选择节点
+      - name: 🎓学术网站
+        now: DIRECT
+      - name: 🇨🇳 国内网站
+        now: DIRECT
+      - name: 🛑 拦截广告
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 选择节点
+    interval: 6
+    subInfo:
+      upload: 2146664182
+      download: 28906854573
+      total: 334333214720
+      expire: 1789192301
+    homeWeb: https://ikuuu.de
+    mode: global
+  - time: 1760395587799.yml
+    name: iKuuu_V2.yaml
+    url: https://yl8cj.no-mad-world.club/link/W1Wn9M4G5H1eQF3K?clash=3&extend=1
+    selected: []
+    interval: 6
+    subInfo:
+      upload: 0
+      download: 0
+      total: 88974819328
+      expire: 2071724198
+    homeWeb: https://ikuuu.de
+  - time: 1760395664869.yml
+    name: iKuuu_V2.yaml
+    url: https://nm2sx.no-mad-world.club/link/XpEioeGXBJmrcbKY?clash=3&extend=1
+    selected: []
+    interval: 6
+    subInfo:
+      upload: 3945372
+      download: 184006015
+      total: 96190070784
+      expire: 2065323855
+    homeWeb: https://ikuuu.de
+  - time: 1760395704307.yml
+    name: iKuuu_V2.yaml
+    url: https://o8pmt.no-mad-world.club/link/Nv88CoU8q5IFUBde?clash=3&extend=1
+    selected: []
+    interval: 6
+    subInfo:
+      upload: 0
+      download: 0
+      total: 57420021760
+      expire: 2062461888
+    homeWeb: https://ikuuu.de
+index: 0
